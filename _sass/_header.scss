@@ -21,12 +21,41 @@ body {
     margin: 0;
     height: rem(32px);
     line-height: rem(32px);
+    padding-right: 2em;
+    padding-left: 1em;
 
     a {
       display: block;
       color: $accentDark;
       text-decoration: none;
       font-size: rem(32px);
+      position: relative;
+      outline: 0;
+    }
+
+    svg {
+      width: rem(120px);
+      height: rem(30px);
+      transition: all .4s;
+  
+      @include media(">=sm") {
+        width: rem(205px);
+      }
+    }
+  }
+
+  .lists {
+    display: inline;
+    margin: 0;
+    height: rem(32px);
+    line-height: rem(32px);
+
+    a {
+      display: inline;
+      color: $accentDark;
+      padding: 3pt;
+      text-decoration: none;
+      font-size: rem(20px);
       position: relative;
       outline: 0;
     }
