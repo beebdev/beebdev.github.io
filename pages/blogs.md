@@ -5,8 +5,13 @@ description: Some description.
 permalink: /blogs/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="600">
 
 # Blogs
 
-Hello world! My name is Elton and I am a student at UNSW, Sydney. I'm currently in my final year of studying BE, Computer Engineering and I'll be posting about tech, misc
+I was thinking I can have an organised view of posts here categories into topics, but for now I'll add an "under construction" message in this page as I haven't started working on that and I don't have enough posts.. :'(
+
+
+Beep boop..
+
+<img src="/assets/img/under_construction.png" alt="Under Construction" width="200">                                                              

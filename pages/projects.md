@@ -9,4 +9,11 @@ permalink: /projects/
 
 # Projects
 
-Hello world! My name is Elton and I am a student at UNSW, Sydney. I'm currently in my final year of studying BE, Computer Engineering and I'll be posting about tech, misc
+The goal of this page is to showcase some projects I've done or am working on. These might include some past projects that I've never pushed onto Github or past course assignment projects that I find interesting (of course, not reused in current offerings). Same as the projects tab, gonna put an "under construction" message here.
+
+
+
+
+Beep boop..
+
+<img src="/assets/img/under_construction.png" alt="Under Construction" width="600">   
