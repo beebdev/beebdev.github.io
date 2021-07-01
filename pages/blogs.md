@@ -5,7 +5,7 @@ description: Some description.
 permalink: /blogs/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="600">
+<!-- <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="600"> -->
 
 # Blogs
 
