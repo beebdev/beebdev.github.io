@@ -10,6 +10,7 @@ pre {
   -o-border-radius: 15px;
   -ms-border-radius: 15px;
   border-radius: 15px;
+  @include center(rem(1000px));
 
   @include media(">=sm") {
     font-size: rem(11px);
