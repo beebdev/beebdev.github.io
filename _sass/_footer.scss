@@ -24,8 +24,8 @@ footer {
   p {
     text-decoration: none;
     color: $primaryDark;
-    font-size: rem(16px);
-    line-height: rem(25px);
+    font-size: rem(14px);
+    line-height: rem(18px);
   }
 
   span {
@@ -33,7 +33,7 @@ footer {
   }
 
   svg {
-    @include size(28, 28);
+    @include size(24, 24);
     display: inline-block;
     vertical-align: middle;
     margin-right: rem(10px);
